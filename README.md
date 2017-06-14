@@ -1,6 +1,6 @@
-# ele_app2
+# addCount
 
-> A Vue.js project
+> A Vue.js project with vuex.js
 
 ## Build Setup
 
