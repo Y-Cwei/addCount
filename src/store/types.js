@@ -1,0 +1,5 @@
+export const RECEIVE_PRODUCTS = 'receive_products'
+export const ADD_TO_CART = 'add_to_cart'
+export const CHECKOUT_REQUEST = 'checkout_request'
+export const CHECKOUT_SUCCESS = 'checkout_success'
+export const CHECKOUT_FAIL = 'checkout_fail'
